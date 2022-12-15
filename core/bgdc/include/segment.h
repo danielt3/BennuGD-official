@@ -1,7 +1,7 @@
 /*
- *  Copyright © 2006-2019 SplinterGU (Fenix/Bennugd)
- *  Copyright © 2002-2006 Fenix Team (Fenix)
- *  Copyright © 1999-2002 José Luis Cebrián Pagüe (Fenix)
+ *  Copyright (C) 2006-2019 SplinterGU (Fenix/Bennugd)
+ *  Copyright (C) 2002-2006 Fenix Team (Fenix)
+ *  Copyright (C) 1999-2002 Josï¿½ Luis Cebriï¿½n Pagï¿½e (Fenix)
  *
  *  This file is part of Bennu - Game Development
  *
@@ -33,7 +33,7 @@
 
 #include "typedef.h"
 
-/* Un segmento es una zona lineal de datos que puede crecer dinámicamente */
+/* Un segmento es una zona lineal de datos que puede crecer dinï¿½micamente */
 
 typedef struct _segment
 {

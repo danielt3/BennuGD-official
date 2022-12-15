@@ -1,7 +1,7 @@
 /*
- *  Copyright © 2006-2019 SplinterGU (Fenix/Bennugd)
- *  Copyright © 2002-2006 Fenix Team (Fenix)
- *  Copyright © 1999-2002 José Luis Cebrián Pagüe (Fenix)
+ *  Copyright (C) 2006-2019 SplinterGU (Fenix/Bennugd)
+ *  Copyright (C) 2002-2006 Fenix Team (Fenix)
+ *  Copyright (C) 1999-2002 Jose Luis Cebrian Pague (Fenix)
  *
  *  This file is part of Bennu - Game Development
  *
@@ -122,7 +122,7 @@ int main( int argc, char *argv[] )
             "\n"
             "Copyright (c) 2006-2019 SplinterGU (Fenix/BennuGD)\n"
             "Copyright (c) 2002-2006 Fenix Team (Fenix)\n"
-            "Copyright (c) 1999-2002 José Luis Cebrián Pagüe (Fenix)\n"
+            "Copyright (c) 1999-2002 Jose Luis Cebrian Pague (Fenix)\n"
             "\n" );
 
     /* Default lang to EN */
