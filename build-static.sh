@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# Copyright © 2006-2013 SplinterGU (Fenix/Bennugd)
+# Copyright (C) 2006-2013 SplinterGU (Fenix/Bennugd)
 #
 # This file is part of Bennu - Game Development
 #
